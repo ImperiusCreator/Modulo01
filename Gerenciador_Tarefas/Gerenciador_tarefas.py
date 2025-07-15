@@ -92,7 +92,6 @@ while True:
 
     elif escolha == "6":
         break
-    
     else:
         print("Opção inválida. Por favor, tente novamente.")
 
